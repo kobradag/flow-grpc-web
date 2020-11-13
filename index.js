@@ -1,3 +1,2 @@
-const FlowGRPCWeb = require("./lib/flow-grpc-web.js");
 
-module.exports = FlowGRPCWeb;
+export * from './lib/flow-grpc-web.js';
