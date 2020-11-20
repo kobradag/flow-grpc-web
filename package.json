@@ -1,11 +1,11 @@
 {
 	"version": "0.0.1",
-	"name": "@aspectron/flow-grpc-client",
-	"description": "Flow gRPC Client",
+	"name": "@aspectron/flow-grpc-web",
+	"description": "Flow gRPC web client",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/aspectron/flow-grpc-client"
+		"url": "git+https://github.com/aspectron/flow-grpc-web"
 	},
 	"license": "MIT",
 	"devDependencies": {
