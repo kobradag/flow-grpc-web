@@ -1,5 +1,5 @@
 {
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"name": "@aspectron/flow-grpc-web",
 	"description": "Flow gRPC web client",
 	"main": "index.js",
@@ -32,6 +32,7 @@
 	"files": [
 		"index.js",
 		"lib",
+		"types",
 		"README.md",
 		"LICENSE",
 		".jsdoc.js"
