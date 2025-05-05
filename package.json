@@ -1,6 +1,6 @@
 {
 	"version": "0.0.7",
-	"name": "@aspectron/flow-grpc-web",
+	"name": "@kobradag/flow-grpc-web",
 	"description": "Flow gRPC web client",
 	"main": "index.js",
 	"repository": {
